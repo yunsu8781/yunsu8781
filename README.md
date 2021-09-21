@@ -1,5 +1,5 @@
-### Hi there 👋
-# My name is Lee yunsu
+# Hi there 👋
+## My name is Lee yunsu
 
 
 <p align="center">

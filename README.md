@@ -5,5 +5,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65841016/134002494-b3a61e89-0c96-4bdb-b4bc-27bf5756cffe.png" width="90%"/>
+  <img src="https://user-images.githubusercontent.com/84833757/150295112-249f76e9-2756-41f9-8580-d557bbdb9941.jpg"
+
+-- width="90%"/>
 </p>
